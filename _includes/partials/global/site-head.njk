@@ -1,0 +1,22 @@
+<a class="skip-link" href="#main-content">Skip to content</a>
+  <div class="wrapper">
+    <div class="[ site-head__inner ] [ md:box-flex space-between align-center ]">
+      <a href="/" class="[ site-head__site-name ] [ leading-tight ]">
+        <span class="visually-hidden">{{ site.name }} - Home</span>
+        <span class="[ site-head__site-name ] [ text-600 ]" aria-hidden="true">{{ site.name }}</span>
+      </a>
+      {% set ariaLabel = 'navigation' %}
+      {% include "partials/components/nav.njk" %}
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+  <script>
+  $( document ).ready(function() {
+      // translation display toggle
+      $(".translate").click( function(){
+        var songNumber = $(this).data("songNumber");
+        $(this).prev().removeClass()
+        $(this).remove()
+      })
+  });
+  </script>

@@ -4,20 +4,20 @@
 	{% include "components/head.njk" %}
 
 	<body>
+		<header role="banner" class="[ site-head ] [ pad-top-700 pad-bottom-700 ">
+			{% include "partials/global/site-head.njk" %}
 
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
 		</header>
 
 		<main>
-			{{ layoutContent | safe }}
+			{# {{ layoutContent | safe }} #}
+			{% block content %}
+			{% endblock content %}
 		</main>
 
-		{% include "components/footer.njk" %}
-
+		   {% include "partials/global/site-foot.njk" %}
+			{% block foot %}
+			{% endblock %}
 	</body>
 
 </html>

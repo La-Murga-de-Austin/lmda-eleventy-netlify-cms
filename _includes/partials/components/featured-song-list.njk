@@ -1,0 +1,31 @@
+{% if songListItems.length %}
+  <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
+    {# <ul>
+      {% for item in songListItems %}
+        <li>
+          <a href="/songs#{{ item.data.title }}">
+            {{ item.data.title }}
+            </a>
+        </li>
+      {% endfor %} #}
+
+    <div class="[ inner-wrapper ] [ sf-flow ]">
+      <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2>
+      <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed>
+        {% for item in songListItems %}
+          {% if item.data.featured %}
+            <li class="post-list__item" id="{{ item.data.title }}">
+              <h3 class="font-base leading-tight text-600 weight-mid">
+                <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
+              </h3>
+                {# {{ item.templateContent | safe }} #}
+
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ item.data.youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ol>
+    </div>
+  </section>
+{% endif %}

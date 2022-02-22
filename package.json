@@ -32,6 +32,7 @@
     "@11ty/eleventy-navigation": "^0.3.2",
     "clean-css": "^5.2.4",
     "html-minifier": "^4.0.0",
-    "uglify-js": "^3.15.1"
+    "uglify-js": "^3.15.1",
+    "node-fetch": "^2.6.1"
   }
 }

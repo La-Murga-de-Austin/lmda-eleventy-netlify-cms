@@ -1,6 +1,25 @@
----
-layout: layouts/base.njk
-section: home
----
+{% extends 'layouts/base.njk' %}
 
-{{ layoutContent | safe }}
+{# Intro content #}
+{% set introHeading = title %}
+{% set introSummary %}
+  {{ content | safe }}
+{% endset %}
+
+{# Post list content #}
+{% set postListHeading = postsHeading %}
+{% set songListItems = collections.songFeed %}
+<code> {{ collections }} </code>
+{# Archive link #}
+{% if songListItems.length < collections.posts.length %} 
+  {% set paginationNextText = archiveButtonText %}
+  {% set paginationNextUrl = '/archive' %}
+{% endif %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    {% include "partials/components/intro.njk" %}
+    {% include "partials/components/featured-song-list.njk" %}
+    {% include "partials/components/pagination.njk" %}
+  </main>
+{% endblock %}

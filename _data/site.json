@@ -1,0 +1,10 @@
+{
+  "showThemeCredit": true,
+  "name": "La Murga de Austin",
+  "shortDesc": "El Latido de Austin. The Heartbeat of Austin.",
+  "url": "https://lamurgadeaustin.com",
+  "enableThirdPartyComments": false,
+  "maxPostsPerPage": 5,
+  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "faviconPath": "/images/favicon.png"
+}

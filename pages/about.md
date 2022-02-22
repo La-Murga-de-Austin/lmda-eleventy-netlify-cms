@@ -1,33 +1,49 @@
 ---
-title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
-date: 2017-01-01T00:00:00.000Z
-permalink: /about/index.html
-eleventyNavigation:
-  key: About
-  order: 1
+title: "About"
+permalink: "/about/index.html"
+layout: "layouts/about.njk"
+tags:
+  - media
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+La Murga de Austin is a brass & drum band steeped in the traditions of murga. Whenever you think of the pageantry of Carnival celebrations in South America, or the electric atmosphere and songs and chants at a fútbol match in Mexico or Argentina, chances are your mind is conjuring up the sights and sounds of murga.
 
-## Our services
+![Song and Chant Practice Feb 2020 at Hopsquad Brewery](/static/img/2020-feb-hopsquad.jpeg "Photo by Anthony Cardinal")
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+What originally began in Uruguay as a form of musical theatre has grown since the 1960s to represent the ultimate expression of fan support throughout the soccer stadiums of North and South America.
 
-### Blue-sky thinking
+![Kirk with a megaphone](/static/img/2020-10-20-kirk.jpg "Photo by Alex Rubio Photography")
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+At its core, a murga band is comprised of brass instruments — typically trumpet and trombone — and various Brazilian and other Latin American drums. The most recognizable percussion instrument is the bombo, or bombo murguero — a colossal bass drum with cymbals (“platillos”) affixed to the top.
 
-#### Management frameworks
+![2019 UT Soccer Zol playing trombone](/static/img/2019-ut-soccer-zol.jpeg "Photo by Alex Rubio Photography")
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The bombo is the star of the murga and leads the rhythm section, functioning as the backbone of every song and chant. Even by itself, the mighty bombo can inspire a crowd to chant, sing, clap and cheer with it’s tremendous resonance.
 
-##### Regulatory convergence
+![Pride Parade ATX 2019 Trish marches with bombo](/static/img/pride-2019-trish.jpeg "Photo by Alex Rubio Photography")
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## 2021 Leadership Team
+
+- Drums
+  - Drum Captain - Kurt Lammers
+  - Lead Bombo - Wiley Koepp
+  - Lead Surdo - Jeshua Medrano
+  - Lead Snare - Gaby Navarro
+  - Lead Repique - Dave Walker
+- Brass
+  - Brass Captain - Zol Waterhouse
+  - Trombone Lead - Michael Porras
+  - Trumpet Lead - Ben Hulan
+- Capos
+  - Lead - Ray Castelo
+  - Lead - Jay Torres
+  - Lead - Kirk Mangum
+  - Lead - Stephanie Dempsey
+  - Lead - Anthony Cardinal
+- Operations
+  - Mateo Clarke - Events/Booking
+  - Rigo Rodriguez Lira - Membership/Inventory
+  - Marc Tost - Merch
+  - Dani McKenna - Social Media/AV
+
+### Contact us via email: <a href="mailto:info@lamurgadeaustin.org">info@lamurgadeaustin.org</a>

@@ -1,0 +1,30 @@
+{% extends 'layouts/base.njk' %}
+
+{# Intro content #}
+{% set introHeading = title %}
+{% set introSummary %}
+  {{ content | safe }}
+{% endset %}
+
+{# {% include "partials/components/qr-code.svg" %} #}
+
+
+{# Post list content #}
+{% set postListHeading = postsHeading %}
+{% set songListItems = collections.songFeed %}
+
+{# Archive link #}
+{% if songListItems.length < collections.posts.length %} 
+  {% set paginationNextText = archiveButtonText %}
+  {% set paginationNextUrl = '/archive' %}
+{% endif %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+
+    <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 {{ 'pad-bottom-900' if not site.enableThirdPartyComments }} text-500 ] [ sf-flow ] [ e-content ]">
+        {{ content | safe }}
+        {% include "partials/components/song-list.njk" %}  
+    </div>
+  </main>
+{% endblock %}
