@@ -7,19 +7,19 @@ tags:
   - songs
 ---
 
-We shall not, <br>
-We shall not be moved.<br>
-We shall not,<br>
-We shall not be moved.<br>
-Just like a tree,<br>
-Standing by the water.<br>
-We shall not be moved.<br>
+We shall not, 
+We shall not be moved.
+We shall not,
+We shall not be moved.
+Just like a tree,
+Standing by the water.
+We shall not be moved.
 
-Austin is behind you,<br>
-We shall not be moved.<br>
-Austin is behind you,<br>
-We shall not be moved.<br>
-Just like a tree,<br>
-Standing by the water.<br>
+Austin is behind you,
+We shall not be moved.
+Austin is behind you,
+We shall not be moved.
+Just like a tree,
+Standing by the water.
 We shall not be moved.
 

@@ -12,8 +12,6 @@ Click to view the songsheet.
     <img src="/static/img/2021_songsheet.png" alt="Austin FC Songsheet" style="max-width: 400px;"/>
 </a>
 
-- [Texas Soccer Songsheet](/static/img/ut_soocer_songsheet.jpg)
-
 <br>
 
 ## Share these songs.

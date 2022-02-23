@@ -1,37 +1,35 @@
 ---
 title: El Equipo de la 512 (Selena)
-youtube: mZT1xlajOsI
 number: 5
-translation: true
 date: 2020-01-05
+featured: true
 tags:
   - songs
 ---
 
-Cinco! Uno! Dos! (x4) <br>
+*Refrain:* 
+Cinco! Uno! Dos! (x4)
 
-Somos del equipo de la cinco doce! <br>
-Listos! Verde! A ganar! <br>
-Somos del equipo de la capital! <br>
-Hasta la muerte! <br>
-
-Somos del equipo de la cinco doce! <br>
-Listos! Verde! A ganar! <br>
-Somos de la banda que hace carnaval! <br>
+*Verse:*
+Somos del equipo de la cinco doce!
+Listos! Verde! A ganar!
+Somos del equipo de la capital!
 Hasta la muerte!
 
-<div class="hidden">
-  <h4>Translation</h4><br>
-  <p>
-  We're from the team from the Five One Two.<br>
-  Ready! Verde! To Win!<br>
-  We're from the team from the capital!<br>
-  Until death!<br>
-    <br>
-  We're from the team from the Five One Two.<br>
-  Ready! Verde! To Win!<br>
-  We're from the group that makes a party!<br>
-  Until death!<br>
+Somos del equipo de la cinco doce!
+Listos! Verde! A ganar!
+Somos de la banda que hace carnaval!
+Hasta la muerte!
 
-  </p>
-</div>
+#### Translation:
+We're from the team from the Five One Two
+Ready! Verde! Let's Win!
+We're from the team from the capital
+Until death
+
+We're from the team from the Five One Two
+Ready! Verde! Let's Win!
+We're from the group that makes a party
+Until death
+
+https://www.youtube.com/watch?v=mZT1xlajOsI

@@ -1,5 +1,13 @@
 {% if songListItems.length %}
   <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
+    {# <ul>
+      {% for item in songListItems %}
+        <li>
+          <a href="/songs#{{ item.data.title }}">
+            {{ item.data.title }}
+            </a>
+        </li>
+      {% endfor %} #}
 
     <div class="[ inner-wrapper ] [ sf-flow ]">
       <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2>
@@ -11,14 +19,21 @@
                 <h3 class="font-base leading-tight text-600 weight-mid">
                   <a href="{{ item.url }}" class="post-list__link" rel="bookmark">#{{ item.data.number }} - {{ item.data.title }}</a>
                 </h3>
-
+                  {# {% if item.data.youtube %}
+                    <a href="https://youtu.be/{{item.data.youtube}}" target="_blank" class="post-list__link">
+                      <div style="float: left;width: 75px;margin: -23px 0px 0px 10px;">
+                        {% include "icons/youtube.svg" %}
+                      </div>
+                    </a>
+                  {% endif %} #}
               <div>
-              <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 {{ 'pad-bottom-900' if not site.enableThirdPartyComments }} text-500 ] [ sf-flow ] [ e-content ]">
+              {# <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 {{ 'pad-bottom-900' if not site.enableThirdPartyComments }} text-500 ] [ sf-flow ] [ e-content ]">
                 {{ item.templateContent | safe }}
                 {% if item.data.translation %}
                   <h4 class="translate" data-song-number={{item.data.number}}>Translate lyrics</h4>
                 {% endif %}
-              </div>
+              </div> #}
+              {# <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ item.data.youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> #}
 
             </li>
           {# {% endif %} #}

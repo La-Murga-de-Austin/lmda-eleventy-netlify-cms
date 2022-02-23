@@ -3,6 +3,8 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-js");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const embedEverything = require("eleventy-plugin-embed-everything");
+
 
 // Import data files
 const site = require("./_data/site.json");
@@ -103,6 +105,9 @@ module.exports = function (eleventyConfig) {
     }
     return content;
   });
+
+  // Embeds
+  eleventyConfig.addPlugin(embedEverything);
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");

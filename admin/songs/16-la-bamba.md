@@ -7,8 +7,8 @@ tags:
   - songs
 ---
 
-Para ser de Austin, <br>
-Para ser de Austin <br>
-Se necesita un poco de locura Un poco de locura y descontrol<br>
-Y descontrol y descontrol <br>
-Dale Austin x4 <br>
+Para ser de Austin,
+Para ser de Austin
+Se necesita un poco de locura Un poco de locura y descontro
+Y descontrol y descontrol
+Dale Austin x4
