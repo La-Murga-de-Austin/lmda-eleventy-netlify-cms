@@ -7,9 +7,9 @@ tags:
   - songs
 ---
 
-
-Alright… <br>
-Alright, Alright, Alright <br>
+## Lyrics
+Alright…
+Alright, Alright, Alright
 Austin! FC!
 
 https://www.youtube.com/watch?v=c09cbLz6N_k

@@ -117,14 +117,6 @@ header nav li a[data-current="current item"] {
   background-color: white;
 }
 
-/* Posts List */
-article {
-  margin-bottom: 1em;
-  padding-bottom: 1em;
-  border-bottom: 1px solid #eee;
-  border-bottom: 1px solid var(--secondary);
-}
-
 main > section > article > * {
   margin-top: 0;
   margin-bottom: 0.5em;

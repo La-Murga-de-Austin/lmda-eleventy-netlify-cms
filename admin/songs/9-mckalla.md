@@ -7,10 +7,15 @@ tags:
   - songs
 ---
 
-McKalla Oh-La- La <br>
-All of my heart is at... <br>
-McKalla Oh-La- La <br>
-Please take me home to... <br>
-McKalla Oh-La- La <br>
-All of my friends are at McKalla. <br>
+## Lyrics
+McKalla Oh-La La
+All of my heart is at...
+McKalla Oh-La-La
+Please take me home to...
+McKalla Oh-La-La
+All of my friends are at McKalla.
 There’s something bout McKalla!
+
+Ohhhhh-oh-oh-oh-oh-oh-oh-ohhh
+Ohhhhh-oh-oh-oh-oh-oh-oh-ohhh
+Ohhhhh-oh-oh-oh-oh-oh-oh-ohhh

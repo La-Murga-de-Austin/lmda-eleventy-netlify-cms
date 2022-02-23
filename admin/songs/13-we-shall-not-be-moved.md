@@ -1,12 +1,12 @@
 ---
 title: We Shall Not Be Moved
-youtube: 
 number: 13
 date: 2020-01-13
 tags:
   - songs
 ---
 
+## Lyrics
 We shall not, 
 We shall not be moved.
 We shall not,

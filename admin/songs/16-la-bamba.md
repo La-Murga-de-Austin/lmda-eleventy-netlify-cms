@@ -7,6 +7,7 @@ tags:
   - songs
 ---
 
+## Lyrics
 Para ser de Austin,
 Para ser de Austin
 Se necesita un poco de locura Un poco de locura y descontro

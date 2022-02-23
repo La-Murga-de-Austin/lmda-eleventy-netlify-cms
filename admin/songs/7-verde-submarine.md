@@ -1,12 +1,14 @@
 ---
 title: Verde Submarine
 featured: true
+youtube: 30XMUtyl7Go
 date: 2020-01-07
 number: 7
 tags:
   - songs
 ---
 
+## Lyrics
 Seven-four, Seven-four
 It was the vote...
 That built our home.

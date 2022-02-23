@@ -7,6 +7,7 @@ tags:
   - songs
 ---
 
+## Lyrics
 Dale, dale, dale, A-T-X! x2
 Dale… A-T-X!
 

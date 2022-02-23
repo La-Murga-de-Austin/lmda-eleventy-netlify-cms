@@ -7,8 +7,9 @@ tags:
   - songs
 ---
 
-Diego! Diego! <br>
-Historico, <br>
-Diegooooooo! <br>
-Diego! Diego! <br>
-He scored the goooaaalll!<br>
+## Lyrics
+Diego! Diego! 
+Historico, 
+Diegooooooo! 
+Diego! Diego! 
+He scored the goooaaalll!
