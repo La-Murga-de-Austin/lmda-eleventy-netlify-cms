@@ -8,8 +8,8 @@ layout: "layouts/songs.njk"
 
 Click to view the songsheet.
 
-<a href="/static/img/2021_AustinFC_Songs_Canticos.pdf" style=" background: none;">
-    <img src="/static/img/2021_songsheet.png" alt="Austin FC Songsheet" style="max-width: 400px;"/>
+<a href="/static/img/LMDA_songsheet.pdf" style=" background: none;">
+    <img src="/static/img/LMDA_songsheet.png" alt="Austin FC Songsheet" style="max-width: 400px;"/>
 </a>
 
 <br>
