@@ -5,7 +5,6 @@ const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const embedEverything = require("eleventy-plugin-embed-everything");
 
-
 // Import data files
 const site = require("./_data/site.json");
 
@@ -131,6 +130,14 @@ module.exports = function (eleventyConfig) {
     "md",
     markdownIt(options).use(markdownItAnchor, opts)
   );
+
+  // Cache Buster Plugin
+  const cacheBuster = require("@mightyplow/eleventy-plugin-cache-buster");
+
+  module.exports = function (eleventyConfig) {
+    const cacheBusterOptions = {};
+    eleventyConfig.addPlugin(cacheBuster(cacheBusterOptions));
+  };
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
