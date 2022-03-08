@@ -139,6 +139,24 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(cacheBuster(cacheBusterOptions));
   };
 
+  // Redirect pass through
+  // daily-dev-tips.com/posts/adding-netlify-redirects-to-an-eleventy-site/
+  https: module.exports = function (config) {
+    //All other stuff
+
+    // Passthrough copy
+    // All other passthroughs
+    config.addPassthroughCopy("_redirects");
+
+    return {
+      dir: {
+        input: "/",
+        output: "_site",
+      },
+      passthroughFileCopy: true,
+    };
+  };
+
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
 
