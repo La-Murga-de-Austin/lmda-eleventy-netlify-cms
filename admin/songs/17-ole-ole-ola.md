@@ -7,12 +7,15 @@ tags:
 ---
 
 ## Lyrics
-Ole Ole Ole 
+
+Ole Ole Ole
 Ole Ole Ole Ola
 
-Ole Ole Ole 
-Cada dia te queiro mas
+Ole Ole Ole
+Cada dia te quiero mas
 
 Yooooo, soy de Austin
 Es un sentimiento
 Que no puedo parar
+
+https://www.youtube.com/watch?v=iI012LKJ8ds
