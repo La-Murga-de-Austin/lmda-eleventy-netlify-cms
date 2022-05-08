@@ -8,8 +8,11 @@ tags:
 ---
 
 ## Lyrics
-Diego! Diego! 
-Historico, 
-Diegooooooo! 
-Diego! Diego! 
+
+Diego! Diego!
+Historico,
+Diegooooooo!
+Diego! Diego!
 He scored the goooaaalll!
+
+https://www.youtube.com/watch?v=9S3uOQt9KXc
