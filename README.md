@@ -4,7 +4,7 @@ The main website of La Murga de Austin. Contains song lyrics, booking info, and 
 
 💚🖤💚🖤💚🖤
 
-This site is built upon the [Eleventy](https://www.11ty.io/) with [Netlify CMS](https://www.netlifycms.org/) support, using the [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) as a foundation.
+This site is built upon the [Eleventy](https://www.11ty.io/) static site generator with [Netlify CMS](https://www.netlifycms.org/) support, using the [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) as a foundation.
 
 ## Getting started
 
