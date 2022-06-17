@@ -44,26 +44,9 @@ module.exports = function (eleventyConfig) {
 
   // Custom collections
   const now = new Date();
-
-  const livePosts = (post) => post.date <= now && !post.data.draft;
-  eleventyConfig.addCollection("posts", (collection) => {
-    return [
-      ...collection.getFilteredByGlob("./posts/*.md").filter(livePosts),
-    ].reverse();
-  });
-  eleventyConfig.addCollection("songs", (collection) => {
-    return [...collection.getFilteredByGlob("./admin/songs/*.md")];
-  });
-
-  eleventyConfig.addCollection("postFeed", (collection) => {
-    return [...collection.getFilteredByGlob("./posts/*.md").filter(livePosts)]
-      .reverse()
-      .slice(0, site.maxPostsPerPage);
-  });
-
   eleventyConfig.addCollection("songFeed", (collection) => {
     return [
-      ...collection.getFilteredByGlob("./admin/songs/*.md").filter(livePosts),
+      ...collection.getFilteredByGlob("./admin/songs/*.md").filter((s) => s.date <= now && !s.data.draft),
     ];
   });
 
