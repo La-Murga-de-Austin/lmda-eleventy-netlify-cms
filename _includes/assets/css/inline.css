@@ -157,10 +157,6 @@ form {
   padding: 2em 0;
 }
 
-form label {
-  display: none;
-}
-
 input,
 textarea,
 button {
