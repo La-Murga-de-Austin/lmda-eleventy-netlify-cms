@@ -10,7 +10,7 @@ tags:
 ## Lyrics
 
 Diego! Diego!
-Historico,
+Histórico,
 Diegooooooo!
 Diego! Diego!
 He scored the goooaaalll!

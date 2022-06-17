@@ -46,7 +46,7 @@ module.exports = function (eleventyConfig) {
   const now = new Date();
   eleventyConfig.addCollection("songFeed", (collection) => {
     return [
-      ...collection.getFilteredByGlob("./admin/songs/*.md").filter((s) => s.date <= now && !s.data.draft),
+      ...collection.getFilteredByGlob("./pages/songs/*.md").filter((s) => s.date <= now && !s.data.draft),
     ];
   });
 

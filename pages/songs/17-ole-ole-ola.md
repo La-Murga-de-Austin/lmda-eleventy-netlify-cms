@@ -12,7 +12,7 @@ Ole Ole Ole
 Ole Ole Ole Ola
 
 Ole Ole Ole
-Cada dia te quiero mas
+Cada día te quiero más
 
 Yooooo, soy de Austin
 Es un sentimiento

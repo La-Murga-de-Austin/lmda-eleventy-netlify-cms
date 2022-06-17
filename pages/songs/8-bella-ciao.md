@@ -26,7 +26,7 @@ Next time you see us, we may be smiling,
 Verdi black, Verdi black
 Verdi black, black, black!
 Here with our friends now down at McKalla
-Vamos Austin Futbol Club!
+Vamos Austin Fútbol Club!
 
 Oh-o-o-o-o, Oh-o-o-o-o,
 Verdi black, Verdi black
@@ -34,4 +34,4 @@ Verdi black, black, black
 Oh-o-o-o-o, Oh-o-o-o-o
 Oh-o-o-o-o, Oh-o-o-o-o
 
-https://www.youtube.com/watch?v=GNpsKb2_NeE&t=5s
+https://www.youtube.com/watch?v=GNpsKb2_NeE
