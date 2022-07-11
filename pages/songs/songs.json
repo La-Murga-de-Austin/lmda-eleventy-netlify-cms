@@ -1,5 +1,5 @@
 {
-  "layout": "layouts/song.njk",
+  "layout": "layouts/page.njk",
   "permalink": "songs/{{ title | slug }}/index.html",
   "author": "La Murga de Austin",
   "tags": [

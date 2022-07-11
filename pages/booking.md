@@ -1,7 +1,7 @@
 ---
 title: 'Event Booking'
 permalink: '/booking/index.html'
-layout: 'layouts/about.njk'
+layout: 'layouts/page.njk'
 tags:
   - booking
 ---

@@ -8,10 +8,9 @@ tags:
 
 ## Lyrics
 
-I, Love, You, Verde!
+I love you Verde!
 La, la, la, la, la, la
-I, Love, You, Verde!
+I love you Verde!
 La, la, la, la, la, la
-I, Love, You, Verde!
-La, la, la, la, la, la,
-La, la, laaaa!
+I love you Verde!
+La, la, la, la, la, laaaa!

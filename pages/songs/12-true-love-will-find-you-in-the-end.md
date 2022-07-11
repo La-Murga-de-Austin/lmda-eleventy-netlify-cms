@@ -15,4 +15,4 @@ Don't be sad, I know you will
 But don't give up until
 True love will find you in the end
 
-https://www.youtube.com/watch?v=Llx14mFxTRM&t=7s
+https://www.youtube.com/watch?v=Llx14mFxTRM

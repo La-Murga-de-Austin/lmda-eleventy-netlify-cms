@@ -24,46 +24,11 @@ module.exports = function (eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  // Add support for maintenance-free post authors
-  // Adds an authors collection using the author key in our post frontmatter
-  // Thanks to @pdehaan: https://github.com/pdehaan
-  eleventyConfig.addCollection("authors", (collection) => {
-    const blogs = collection.getFilteredByGlob("posts/*.md");
-    return blogs.reduce((coll, post) => {
-      const author = post.data.author;
-      if (!author) {
-        return coll;
-      }
-      if (!coll.hasOwnProperty(author)) {
-        coll[author] = [];
-      }
-      coll[author].push(post.data);
-      return coll;
-    }, {});
-  });
-
   // Custom collections
   const now = new Date();
-
-  const livePosts = (post) => post.date <= now && !post.data.draft;
-  eleventyConfig.addCollection("posts", (collection) => {
-    return [
-      ...collection.getFilteredByGlob("./posts/*.md").filter(livePosts),
-    ].reverse();
-  });
-  eleventyConfig.addCollection("songs", (collection) => {
-    return [...collection.getFilteredByGlob("./admin/songs/*.md")];
-  });
-
-  eleventyConfig.addCollection("postFeed", (collection) => {
-    return [...collection.getFilteredByGlob("./posts/*.md").filter(livePosts)]
-      .reverse()
-      .slice(0, site.maxPostsPerPage);
-  });
-
   eleventyConfig.addCollection("songFeed", (collection) => {
     return [
-      ...collection.getFilteredByGlob("./admin/songs/*.md").filter(livePosts),
+      ...collection.getFilteredByGlob("./pages/songs/*.md").filter((s) => s.date <= now && !s.data.draft),
     ];
   });
 
