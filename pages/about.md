@@ -26,7 +26,7 @@ The bombo is the star of the murga and leads the rhythm section, functioning as 
 
 - Drums
   - Drum Captain - Kurt Lammers
-  - Lead Bombo - Julie LaCivita
+  - Lead Bombo - Julie "Two Times" LaCivita
   - Lead Surdo - Jeshua Medrano
   - Lead Snare - Colby Falkner James
   - Lead Repique - Dave Walker
@@ -41,7 +41,7 @@ The bombo is the star of the murga and leads the rhythm section, functioning as 
   - Lead - Jay Torres
 - Banderas
   - Lead - Jimbo Walters
-  - Lead - Vic Flores
+  - Lead - Victor "Perro" Calzada-Flores
 - Operations
   - Events/Booking Lead - Wiley Koepp
   - Membership Lead - Brittany Koepp
