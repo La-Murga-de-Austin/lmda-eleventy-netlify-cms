@@ -5561,7 +5561,7 @@ textarea + .field-list__field-group__description {
   color: currentColor;
 }
 .site-foot a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 .site-foot__credit {
   text-align: center;
