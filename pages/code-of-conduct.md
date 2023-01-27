@@ -8,102 +8,149 @@ tags:
 
 ## La Murga de Austin Code of Conduct / Código de Conducta de La Murga de Austin
 
-In order to be considered an active member, La Murga de Austin requests that all Murga members agree to our Code of Conduct:
+<details>
+  <summary>Code of Conduct in English</summary>
 
-### Code of Conduct / Código de Conducta
-In Austin FC’s inaugural season, La Murga de Austin set a gold standard for what a Major League Soccer supporters section can achieve through intense passion, commitment, songs and chants. And just as our instruments and voices represent the spirit of our club and community, La Murga sets a similar high standard of sportsmanship and respect when it comes to our treatment of one another, our fans, and even fans of our opponents. Racism, sexism, homophobia, transphobia, discrimination, threats and violence will not be tolerated within our membership. This is our standard at home and away, at watch parties, online, and as individuals when we are representing La Murga in the community.
+### 2023 Membership Guidelines and Code of Conduct
 
----
-
-Durante la temporada inaugural de Austin FC, La Murga de Austin estableció un estándar de oro para lo que una sección de seguidores de la MLS puede lograr a través de una intensa pasión, compromiso, canciones y porras. Y así como nuestros instrumentos y voces representan el espíritu de nuestro club y comunidad, La Murga establece un alto estándar similar de deporte y respeto cuando se trata de nuestro trato mutuo, seguidores de nuestro equipo y de nuestros rivales. El racismo, el sexismo, la homofobia, la transfobia, la discriminación, las amenazas y la violencia no serán tolerados entre nuestra membresía. Este es nuestro estándar en nuestro estadio y en otros estadios, en fiestas para ver otros juegos cuando nuestro equipo juega fuera de casa, en las plataformas de internet y cómo individuos cuando representamos a La Murga en la comunidad.
-
-### Becoming a Member / Como puedes ser considerado miembro de La Murga de Austin
-La Murga de Austin requires that you must attend at least 3 practices and 1 home game or away watch party within 6 months before you are eligible to become a member. You also must agree to and abide by the tenets of this Code of Conduct.
-
-Section Leads will determine the line up for performers & instruments for each game. In addition, each Lead will inform new members when they are ready to 1) bring an instrument into the stadium or murga performance and 2) when they are clear to perform at La Murga events.
+#### Becoming a Member 
+ - *Prospective Membership:* Those interested in learning about La Murga will be added to a Prospective Members WhatsApp Group by a member of Leadership.
+ - *Active Membership:* In order to become an Active Member, La Murga requires that you must attend and actively participate in at least 6 practices within 3 months. You also must agree to and abide by the tenets of this document, through signing the Code of Conduct.
 
 ---
 
-La Murga de Austin requiere que asistas al menos a 3 prácticas y 1 partido en casa o una fiesta para ver el juego cuando el equipo juega fuera de casa dentro de 6 meses antes de ser elegible para convertirte en miembro. También debes aceptar y cumplir con las regulaciones de este Código de Conducta.
-
-Los líderes de cada sección determinarán la alineación de los músicos, capos e instrumentos para cada juego. Además, cada Líder informará a los nuevos miembros cuando estén listos para 1) traer un instrumento al estadio o una fiesta para ver el equipo cuando juegan fuera de casa con La Murga y 2) cuándo estén listos para participar como músico o capo en los eventos de La Murga.
-
-### Maintaining Your Membership / Cómo mantener tu membresía
-Members must participate in La Murga de Austin events in order to continue to be considered an active member. This includes:
-- Participation in at least 3 practices and 1 home game or away watch party every 6 months
-- Maintaining a current RSVP status to La Murga events listed in Gig-o-matic (even if you cannot attend and your RSVP is ‘no’)
+#### Maintaining Membership
+An Active Member must continue to participate in La Murga events in order to remain an Active Member. Important points are listed below.
+- Regular attendance at La Murga practices is expected of all members.
+- You must also maintain a current RSVP status to La Murga events listed in Gig-o-matic - even if you cannot attend and your RSVP is ‘no’ or ‘maybe’.
+- If you are going to be absent from practice for an extended period of time, please speak to your Section Lead for alternate instructions regarding maintaining Active Membership. 
 
 ---
 
-Los miembros deben participar en los eventos de La Murga de Austin para continuar siendo considerados miembros activos. Esto incluye:
-
-- Participar en al menos 3 prácticas y 1 partido en casa o fiesta de partido fuera de casa cada 6 meses
-- Mantener un estado de reservación para los eventos de La Murga enlistados en Gig-O-Matic (aunque no puede asistir y su respuesta a la reservación es  un “No”)
-
-### Conduct / Conducta
-In the interest of sportsmanship and out of respect for others, members of La Murga de Austin should conduct themselves in accordance with the Stadium Code of Conduct both at home and away. Members should also comply with the MLS Code of Conduct.
-
-Behavior that will not be tolerated and may result in suspension of membership:
-- Disclosing any information that is confidential or proprietary to La Murga
-- Mistreatment, damage or theft of La Murga instruments, flags or other property
-- Leading, encouraging or participating in discriminatory chants
-- Throwing objects onto the field (home or away)
-- Using racial slurs, hate speech or other disrespectful language in person or online
-- Engaging in excessively drunken or disorderly behavior at La Murga events
-- Making unwelcome sexual advances or sexually harassing others in person or online
-- Causing property damage at our home stadium or away
-- Reselling tickets in the supporters section without explicitly informing the buyer of the ticket location and expectations, or reselling supporters section tickets above face value or without explaining expectations for the section
+#### Performance Lineups
+Section Leads will determine the lineups for performers and instruments for each Murga event. In addition, each Lead will inform new members when they are allowed to perform at Murga events.
 
 ---
 
-Con el interés del espíritu deportivo y por respeto a los demás, los miembros de La Murga de Austin deben comportarse de acuerdo con el Código de Conducta del estadio en casa y en estadios cuando somos visitantes. Los miembros también deben cumplir con el Código de conducta de la MLS.
+#### Conduct
+In the interest of sportsmanship and out of respect for others, members of La Murga should conduct themselves in accordance with the Q2 Stadium Policies (posted on Austin FC website) both at home and away. Members should also comply with the MLS Code of Conduct (posted on MLS website).
 
-El comportamiento que no será tolerado y puede resultar en la suspensión de la membresía incluye:
-
-- Revelar información que sea confidencial o propiedad de La Murga de Austin
-- Maltrato, daño o robo de instrumentos, banderas u otra propiedad de La Murga de Austin
-- Dirigir, alentar o participar en cantos o porras discriminatorias
-- Lanzar objetos al campo (en casa o de visitante en otro estadio)
-- Usar insultos racistas, comentarios de odio u otro lenguaje que le falte el respeto a otros en persona o por medios de internet 
-- Involucrarse en exceso de ebriedad o conducta desordenada en los eventos de La Murga
-- Hacer avances sexuales no deseados o acosar sexualmente a otros en persona o por medio de medios de internet
-- Causar daños a la propiedad en nuestro estadio lo cuando estemos de visitantes en otros estadios
-- Vender boletos de juegos en casa en la sección de seguidores sin informar explícitamente al comprador de la ubicación y las expectativas de las entradas, vender boletos de juegos en casa por más que el valor original o sin explicarle las expectativas de la sección.
-
-### Media Guidelines / Reglas de medios de La Murga de Austin
-It is encouraged to share La Murga’s content directly from La Murga social media platforms instead of screen grabs. When sharing La Murga content directly, please be sure to credit photographers out of respect for their art and talent.
-
-Be respectful when posting about La Murga, especially when you tag La Murga in your posts.
-
-Get approval from Social Media Lead when engaging with media and speaking on behalf of the organization, or if you would like to use any La Murga content for personal use.
+##### Behavior that will not be tolerated and may result in suspension of membership is listed below:
+1. Disclosing any information that is confidential or proprietary to La Murga
+1. Mistreatment, damage or theft of La Murga instruments, flags or other property
+1. Leading, encouraging or participating in discriminatory chants
+1. Throwing objects onto the field (home or away)
+1. Using racial slurs, hate speech or other disrespectful language in person or online
+1. Engaging in excessive inebriation, assault or other disorderly behavior at La Murga events
+1. Making unwelcome sexual advances or sexually harassing others in person or online
+1. Causing property damage at Murga events
+1. Reselling any Supporters Section ticket above face value, regardless of whether or not the ticket was obtained through Murga
+1. Any other behavior deemed by Leadership as detrimental to the culture of Murga
 
 ---
 
-Se recomienda compartir el contenido de La Murga de Austin directamente desde las plataformas de redes sociales de La Murga en lugar de capturas de pantalla. Al compartir contenido de La Murga directamente, asegúrese de dar crédito a los fotógrafos por respeto a su arte y talento.
-
-Tener respeto total cuando publiques sobre La Murga, especialmente cuando etiquetes a La Murga de Austin en sus publicaciones.
-
-Obtén la aprobación del líder de plataformas de medios sociales cuando interactúes con los medios de televisión/periódicos y hables en nombre de la organización, o si deseas utilizar cualquier contenido de La Murga de Austin para tu uso personal.
-
-### Code of Conduct Violations / Violaciones del Código de Conducta
-Anyone violating this Code of Conduct is subject to disciplinary action which may include:
-
-- Minor/First time violations will be given a verbal warning
-- Repeat violations, racist or sexist chants, unwanted sexual advances or harassment, or grossly inappropriate behavior on social media will result in a formal warning
-- Two formal warnings issued within a 6-month period or extremely inappropriate behavior will lead to immediate disciplinary action including either temporary suspension or permanent expulsion from La Murga de Austin
-- Inappropriate behavior during a match may result in immediate removal from the supporters section and/or stadium, followed by a review of the incident by La Murga’s Leadership Team
-
-All members are subject to these standards. The members of La Murga’s Leadership Team may be held to a higher standard. La Murga’s Leadership Team (excepting any offenders) will oversee the discipline process.
+#### Media Guidelines 
+1. It is encouraged to share La Murga’s content directly from La Murga social media platforms instead of via screen grabs. 
+1. When sharing La Murga content directly, please be sure to credit photographers out of respect for their art and talent. 
+1. Be respectful when posting about La Murga, especially when you tag La Murga in your posts.
+1. Obtain approval from Leadership when engaging with media and speaking on behalf of the organization, or if you would like to use any La Murga content for personal use.
 
 ---
 
-Cualquier persona que viole este Código de conducta estará sujeto a medidas disciplinarias que pueden incluir:
+#### Code of Conduct Violations
+Anyone violating this Code of Conduct is subject to disciplinary action. All disciplinary actions will be reviewed and voted upon by Leadership. Disciplinary actions may include the below (not necessarily in order).
+ - *Verbal Warning* - Delivered directly and privately from Leadership and will be documented. 
+ - *Formal Warning* - Delivered directly from Leadership, documented, and shared with all members of La Murga.
+ - *Removal from Murga stadium sections and/or capo stands*
+ - *Removal from Murga events* 
+ - *Temporary Suspension* 
+ - *Permanent Expulsion*
 
-- Las infracciones menores/primeras veces recibirán una advertencia verbal
-- Las infracciones repetidas, los canciones con contenido racista o sexistas, las insinuaciones o el acoso sexual no deseados o el comportamiento extremadamente inapropiado en las redes sociales darán lugar a una advertencia formal.
-- Dos advertencias formales emitidas dentro de un período de 6 meses o un comportamiento extremadamente inapropiado dará lugar a una acción disciplinaria inmediata, incluida la suspensión temporal o la expulsión permanente de La Murga de Austin.
-- El comportamiento inapropiado durante un partido puede resultar en la expulsión inmediata de la sección de aficionados y/o del estadio, seguido de una revisión del incidente por parte del Equipo Directivo de La Murga.
+---
 
-Todos los miembros están sujetos a estas normas. Los miembros del Equipo de Liderazgo de La Murga de Austin pueden tener un estándar más alto. El Equipo de Liderazgo de La Murga (a excepción de los infractores) supervisará el proceso disciplinario.
+#### Disciplinary Action Appeals
+- If you disagree with a disciplinary action, you may submit an appeal. All appeals need to be formally submitted in writing within 1 week of the disciplinary action via email <info@lamurgadeaustin.org>.
+- All appeals must include additional evidence not already reviewed by Leadership in assigning the initial disciplinary action. 
+- Appeals will be formally reviewed and voted upon by Leadership within a reasonable timeframe. Any changes to initially assigned disciplinary actions are solely at the discretion of Leadership.
 
-*Rev. Feb 12, 2022*
+---
+
+#### Submission of Grievances
+All grievances related to La Murga should be submitted in a timely manner, either verbally to your Section Lead or via email <info@lamurgadeaustin.org>.
+
+</details>
+
+<details>
+    <summary>Código de Conducta en Español</summary>
+
+### Guías de membresía y código de conducta de 2023
+
+#### Cómo Convertirse en miembro
+ - *Membresía potencial:* aquellos interesados ​​en aprender sobre La Murga serán agregados a un grupo de WhatsApp de miembros potenciales por un miembro de Liderazgo. 
+ - *Membresía Activa:* Para convertirse en un miembro activo, La Murga requiere que asistas y participes activamente en al menos 6 prácticas en 3 meses.  También debes aceptar y cumplir con las reglas de este documento firmando el Código de Conducta. 
+
+---
+
+#### Como Mantener tu Membresía:
+Un miembro de la Murga debe seguir participando en los eventos de La Murga para poder seguir siendo miembro activo. Los puntos importantes son los siguientes:
+ - Se espera que todos los miembros asistan regularmente a las prácticas de La Murga.
+ - Debe mantener un estado de RSVP actual para los eventos de La Murga enlístanos en Gig-o-matic, incluso si no puede asistir y su RSVP es "no" o "tal vez".
+ - Si vas a faltar a práctica por un período prolongado de tiempo, tienes que hablar con tu líder de tu sección para obtener instrucciones alternativas sobre cómo mantener la membresía activa.
+
+---
+
+#### Asignaciones de miembros para los eventos:
+Los líderes de las secciones determinarán las alineaciones de los participantes para cada evento de La Murga.  Además, cada líder informará a los nuevos miembros cuando se les permita participar en los eventos de Murga.
+
+---
+
+#### Conducta
+Con el interés al espíritu deportivo y por respeto a los demás, los miembros de La Murga deben comportarse de acuerdo con las Reglas del Estadio Q2 (publicadas en la página web de Austin FC) tanto en casa como de visitantes a otros estadios.  Los miembros también deben cumplir con el Código de conducta de la MLS (publicado en la página web de la MLS).
+
+##### El comportamiento que no será tolerado y que puede resultar en la suspensión de la membresía se enumera a continuación:
+1. Divulgar cualquier información que sea confidencial o propiedad de La Murga
+1. Maltrato, daño o robo de instrumentos, banderas u otros bienes de La Murga
+1. Dirigir, alentar o participar en cánticos discriminatorios
+1. Lanzar objetos al campo (en casa o de visitante)
+1. Usar insultos raciales, incitación al odio u otro lenguaje irrespetuoso en persona o en por internet 
+1. Participar en ebriedad excesiva, asalto u otro comportamiento desordenado en los eventos de La Murga
+1. Hacer insinuaciones sexuales no deseadas o acosar sexualmente a otros en persona o por medio del internet 
+1. Causar daños materiales en eventos de Murga
+1. Reventa de cualquier entrada de la Sección de aficionados por más de su valor inicial, independientemente de si la entrada se obtuvo o no a través de La Murga. 
+1. Cualquier otro comportamiento que el equipo de liderazgo considere perjudicial para la cultura de Murga.
+
+---
+
+#### Reglas para las redes sociales 
+
+1. Se recomienda compartir el contenido de La Murga directamente desde las plataformas de redes sociales de La Murga en lugar de mediante capturas de pantalla.
+1. Al compartir contenido de La Murga directamente, asegúrate de dar crédito a los fotógrafos por respeto a su arte y talento.
+1. Se respetuoso cuando publiques sobre La Murga, especialmente cuando etiquetes a La Murga en tus publicaciones.
+1. Obtener la aprobación del equipo de liderazgo cuando interactúes con los medios y hables en nombre de la organización, o si deseas utilizar cualquier contenido de La Murga para tu uso personal.
+
+---
+
+#### Violaciones del código de conducta
+Cualquier persona que viole este Código de conducta está sujeta a acciones disciplinarias. Todas las acciones disciplinarias serán revisadas y votadas por el equipo de liderazgo. Las acciones disciplinarias pueden incluir las siguientes (no necesariamente en orden).
+ - *Advertencia Verbal* - Entregada directa y privadamente por parte de Liderazgo y será documentada.
+ - *Advertencia Formal* - entregada directamente por Liderazgo, documentada y compartida con todos los miembros de La Murga.
+ - *Retiro de las secciones del estadio de Murga y/o gradas de capo*
+ - *Eliminación de eventos Murga*
+ - *Suspensión Temporal*
+ - *Expulsión Permanente*
+ 
+---
+
+#### Apelaciones de acciones disciplinarias
+- Si no estás de acuerdo con una acción disciplinaria, puedes presentar una apelación.  Todas las apelaciones deben presentarse formalmente por escrito dentro de una semana de la acción disciplinaria por correo electrónico <info@lamurgadeaustin.org>. 
+- Todas las apelaciones deben incluir evidencia adicional que no haya sido revisada por el equipo de liderazgo al asignar la acción disciplinaria inicial.  
+- Las apelaciones serán formalmente revisadas y votadas por El equipo de liderazgo dentro de un tiempo razonable.  Cualquier cambio en las acciones disciplinarias inicialmente asignadas queda únicamente a discreción del equipo de  liderazgo.
+
+---
+
+#### Quejas
+Todas las quejas relacionadas con La Murga deben presentarse de manera oportuna, ya sea verbalmente a tu Lider de tu Sección o por correo electrónico <info@lamurgadeaustin.org>.
+     
+</details>
+
+*Rev. Jan 25, 2023*
