@@ -48,5 +48,3 @@ The bombo is the star of the murga and leads the rhythm section, functioning as 
   - Merch Lead - Marc Tost
   - Social Media/AV - Dani MacKenna
   - Tech Lead - Ben Hulan
-
-### Contact us via email: <a href="mailto:info@lamurgadeaustin.org">info@lamurgadeaustin.org</a>
