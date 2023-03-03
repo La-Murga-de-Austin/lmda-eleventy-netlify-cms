@@ -16,7 +16,7 @@ x2
 
 We will sing when you are up.
 Even louder when you’re down.
-We will stand with you forever,
+We will sing with you forever,
 Underneath the violet crown.
 We will sing for you to win.
 We will jump for you to score.
