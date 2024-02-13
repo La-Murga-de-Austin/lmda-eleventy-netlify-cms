@@ -45,6 +45,6 @@ The bombo is the star of the murga and leads the rhythm section, functioning as 
 - Operations
   - Events/Booking Lead - Edward Dempsey
   - Membership Lead - Jimbo Walters
-  - Merch Lead - TBA
+  - Merch Lead - Jorge Perez
   - Social Media/AV - Rudy Rocha
   - Tech Lead - Ben Hulan
