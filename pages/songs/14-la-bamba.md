@@ -1,7 +1,7 @@
 ---
 title: La Bamba
 youtube:
-number: 16
+number: 14
 date: 2020-01-16
 tags:
   - songs

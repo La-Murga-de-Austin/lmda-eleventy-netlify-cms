@@ -1,7 +1,7 @@
 ---
 title: Colors (Black Pumas)
 featured: false
-number: 15
+number: 13
 date: 2020-01-15
 tags:
   - songs
