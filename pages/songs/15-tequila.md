@@ -1,5 +1,7 @@
 ---
 title: Tequila - "Aguante"
+id: tequila-aguante
+youtube:
 number: 15
 date: 2023-10-04
 tags:

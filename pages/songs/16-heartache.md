@@ -1,5 +1,6 @@
 ---
-title: Heartache - "Y Dale Austin"
+title: Heartache - (Y Dale Austin)
+id: heartache-y-dale-austin
 number: 16
 date: 2023-04-11
 tags:

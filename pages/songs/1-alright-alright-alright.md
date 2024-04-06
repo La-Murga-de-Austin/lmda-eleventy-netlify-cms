@@ -1,6 +1,8 @@
 ---
 title: Alright Alright Alright
+id: alright-alright-alright
 number: 1
+youtube: c09cbLz6N_k
 featured: false
 date: 2020-01-01
 tags:

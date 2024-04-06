@@ -1,5 +1,7 @@
 ---
 title: I Love You Verde
+id: i-love-you-verde
+youtube: 
 number: 20
 date: 2022-05-22
 tags:

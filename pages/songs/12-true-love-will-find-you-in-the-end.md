@@ -1,5 +1,6 @@
 ---
 title: True Love Will Find You in the End (Daniel Johnston)
+id: true-love-will-find-you-in-the-end
 number: 12
 youtube: Llx14mFxTRM
 date: 2020-01-12

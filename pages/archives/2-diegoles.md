@@ -1,7 +1,8 @@
 ---
 title: Diegoles (Los Caligaris)
+id: diegoles-los-caligaris
 youtube:
-number: 14
+number: 114
 date: 2020-01-14
 tags:
   - songs

@@ -1,5 +1,6 @@
 ---
 title: Verde Submarine
+id: verde-submarine
 featured: true
 youtube: 30XMUtyl7Go
 date: 2020-01-07

@@ -1,5 +1,7 @@
 ---
 title: Dale ATX
+id: dale-atx
+youtube: eAhvEJ91KEk
 number: 4
 featured: false
 date: 2020-01-04

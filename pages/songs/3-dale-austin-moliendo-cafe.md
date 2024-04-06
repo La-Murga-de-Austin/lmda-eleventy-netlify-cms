@@ -1,5 +1,7 @@
 ---
 title: Dale Austin (Moliendo Café)
+id: dale-austin-moliendo-cafe
+youtube: 6kBwBaDAnLM
 number: 3
 featured: false
 date: 2020-01-03

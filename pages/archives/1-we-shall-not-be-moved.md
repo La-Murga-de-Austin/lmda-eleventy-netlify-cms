@@ -1,6 +1,8 @@
 ---
 title: We Shall Not Be Moved
-number: 13
+id: we-shall-not-be-moved
+youtube: 
+number: 1
 date: 2020-01-13
 tags:
   - songs

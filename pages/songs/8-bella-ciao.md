@@ -1,5 +1,6 @@
 ---
 title: Bella Ciao
+id: bella-ciao
 featured: false
 youtube: GNpsKb2_NeE
 number: 8

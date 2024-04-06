@@ -1,5 +1,7 @@
 ---
 title: Reloco Remamado
+id: reloco-remamado
+youtube: Z-qGaT5Wmco
 number: 6
 date: 2020-01-06
 tags:

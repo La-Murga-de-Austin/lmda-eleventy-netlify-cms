@@ -1,5 +1,7 @@
 ---
 title: Let's Go ATX
+id: lets-go-atx
+youtube: lYV4svKtADc
 number: 2
 featured: false
 translation: true

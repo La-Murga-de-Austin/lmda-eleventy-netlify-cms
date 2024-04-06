@@ -1,5 +1,6 @@
 ---
 title: Verdi Negro (Matador)
+id: verdi-negro-matador
 featured: true
 youtube: 1WgMpAEyXgo
 number: 10

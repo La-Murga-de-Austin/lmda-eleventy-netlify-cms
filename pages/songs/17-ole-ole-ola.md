@@ -1,5 +1,7 @@
 ---
 title: Ole Ole Ola
+id: ole-ole-ola
+youtue: iI012LKJ8ds
 number: 17
 date: 2022-02-23
 tags:

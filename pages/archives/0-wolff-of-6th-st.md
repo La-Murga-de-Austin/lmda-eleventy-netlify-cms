@@ -1,5 +1,7 @@
 ---
 title: Wolff of Sixth Street
+id: wolff-of-sixth-street
+youtube:
 number: 0
 date: 2019-12-31
 tags:

@@ -1,6 +1,7 @@
 ---
-title: La Bamba
-youtube:
+title: Dale Bamba (La Bamba)
+id: dale-bamba
+youtube: XVs-gI1s6TI
 number: 14
 date: 2020-01-16
 tags:

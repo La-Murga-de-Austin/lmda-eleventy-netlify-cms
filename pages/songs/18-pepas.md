@@ -1,5 +1,7 @@
 ---
 title: Pepas
+id: pepas
+youtube:
 number: 18
 date: 2022-05-08
 tags:
@@ -9,7 +11,8 @@ tags:
 ## Lyrics
 
 (Intro):
-Dale ohhhhhhh ohhhhh ohhhh ohhhhh ohhhhh ohhhh
+Dale ohhhhhhh oh-oh-ohhhhhhhh oh-oh-ohhhhhhh oh-oh
+Dale ohhhhhhh oh-oh-ohhhhhhhh oh-oh-ohhhhhhh oh-oh
 
 (Verse):
 Vamos, vamos Austin FC,
