@@ -2,6 +2,7 @@
 title: Diegoles (Los Caligaris)
 id: diegoles-los-caligaris
 youtube:
+featured: false
 number: 114
 date: 2020-01-14
 tags:

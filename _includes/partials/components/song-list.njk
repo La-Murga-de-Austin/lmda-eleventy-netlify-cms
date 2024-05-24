@@ -10,7 +10,6 @@
               <h3 class="font-base leading-tight text-600 weight-mid">
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">#{{ item.data.number }} - {{ item.data.title }}</a>
               </h3>
-
             <div>
             <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 {{ 'pad-bottom-900' if not site.enableThirdPartyComments }} text-500 ] [ sf-flow ] [ e-content ]">
               {{ item.templateContent | safe }}

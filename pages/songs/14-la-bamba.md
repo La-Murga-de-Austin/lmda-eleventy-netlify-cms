@@ -2,6 +2,7 @@
 title: Dale Bamba (La Bamba)
 id: dale-bamba
 youtube: XVs-gI1s6TI
+featured: false
 number: 14
 date: 2020-01-16
 tags:

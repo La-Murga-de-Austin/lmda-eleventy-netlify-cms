@@ -2,6 +2,7 @@
 title: McKalla
 id: mckalla
 youtube: 
+featured: false
 number: 9
 date: 2020-01-09
 tags:

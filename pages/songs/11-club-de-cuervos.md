@@ -1,6 +1,7 @@
 ---
 title: Club de Cuervos
 id: club-de-cuervos
+featured: false
 youtube: 
 number: 11
 date: 2020-01-11
