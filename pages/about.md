@@ -22,29 +22,27 @@ The bombo is the star of the murga and leads the rhythm section, functioning as 
 
 ![Pride Parade ATX 2019 Trish marches with bombo](/static/img/pride-2019-trish.jpeg "Photo by Alex Rubio Photography")
 
-## 2024 Leadership Team
+## 2025 Leadership Team
 
-- Drums
-  - Drum Captain - Kurt Lammers
-  - Bombo Lead - Noé De La Mora 
-  - Surdo Lead - Jeshua Medrano
-  - Snare Lead - Glen Holzer
-  - Repique Lead - Penney Stanch
-- Brass
-  - Brass Captain - Paul Fletes
-  - Low Brass Lead - Gary Cox
-  - High Brass Lead - April "Schupe" Schupeman
-- Capos
-  - Lead - Ray Castelo
-  - Lead - Rico Hernandez
-  - Lead - Rigo Rodriguez
-  - Lead - Marc Tost
-- Banderas
-  - Lead - Allie Watson
-  - Lead - Jeffrey Hogan
-- Operations
-  - Events/Booking Lead - Edward Dempsey
-  - Membership Lead - Jimbo Walters
-  - Merch Lead - Jorge Perez
-  - Social Media/AV - Rudy Rocha
-  - Tech Lead - Ben Hulan
+- Band Representative:
+ - Brittany Koepp
+ - Gary Cox
+ - Jeshua Medrano
+ - Rudy Rocha
+ - Rigoberto Rodriguez-Lira
+ - Rico Hernandez
+ - Noë De la Mora
+
+- Capo Leads:
+  - Marc Tost
+  - Ray Castelo
+  - Stephanie Dempsey
+
+- Banderas Lead: Allie Watson
+- Snare/Repique Lead: Kurt Lammers
+- Bombo Lead: Wiley Koepp
+- Surdo Lead: Jorge Castro
+
+- Trumpet Lead: Zac Bonar
+- Trombone Lead: Brandon Vasquez
+- Sousa/Euphonium Lead: Ryan Tamblin
