@@ -8,7 +8,7 @@ tags:
 
 ## Book La Murga for your event
 
-If you would like to book La Murga de Austin to bring the verdinegro carnaval to your event, please email: [info@lamurgadeaustin.org](mailto:events@lamurgadeaustin.org).
+If you would like to book La Murga de Austin to bring the verdinegro carnaval to your event, please email: [events@lamurgadeaustin.org](mailto:events@lamurgadeaustin.org).
 
 Please include:
 
