@@ -8,8 +8,8 @@ layout: "layouts/songs.njk"
 
 Click to view the songsheet.
 
-<a href="/static/img/2024_Canticos.pdf" style=" background: none;">
-    <img src="/static/img/2024_Canticos.png" alt="Austin FC Songsheet" style="max-width: 400px;"/>
+<a href="/static/img/2025_Jan_Canticos.png" style=" background: none;">
+    <img src="/static/img/2025_Jan_Canticos.png" alt="Austin FC Songsheet" style="max-width: 400px;"/>
 </a>
 
 <br>
